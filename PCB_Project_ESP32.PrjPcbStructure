@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=ESP.SchDoc
+Record=SheetSymbol|SourceDocument=ESP.SchDoc|Designator=U_pressiion|SchDesignator=U_pressiion|FileName=pressiion.SchDoc|SymbolType=Normal|RawFileName=pressiion.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ESP.SchDoc|Designator=U_temp|SchDesignator=U_temp|FileName=temp.SchDoc|SymbolType=Normal|RawFileName=temp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
